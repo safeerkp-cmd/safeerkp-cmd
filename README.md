@@ -22,18 +22,21 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=safeerkp-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=safeerkp-cmd&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd&theme=dark&hide_border=true&layout=compact" width="38%" />
 </p>
 
-### 🏆 Achievements & More
+### 🏆 Trophies
+
 <p align="left">
-  <img src="https://github-profile-achievements.vercel.app/api?username=safeerkp-cmd&theme=radical&num_icons=5" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=safeerkp-cmd&theme=radical&no-frame=true&row=1&column=5" />
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsafeerkp-cmd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsafeerkp-cmd&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views&edge_flat=false" />
 </p>
