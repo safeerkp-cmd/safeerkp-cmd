@@ -1,18 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Safeer%20KP&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MCA%20Student&descAlignY=58&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6b0000,100:1a0000&height=200&section=header&text=SAFEER%20KP&fontSize=55&fontColor=c9a84c&animation=fadeIn&fontAlignY=38&desc=「%20The%20struggler%20who%20codes%20in%20the%20dark%20」&descAlignY=62&descAlign=50&descSize=14&descColor=888888" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Dev+%7C+Open+Source+Lover;SQL+%26+Java+guy+%7C+React+learner;Hala+Madrid+%E2%9A%AA%EF%B8%8F+%7C+Arena+18+Clash+Royale" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&pause=1200&color=C9A84C&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%7C+MCA+Student;Even+in+darkness+%E2%80%94+the+code+burns+on.;SQL+%26+Java+%7C+React+Learner;Hala+Madrid+%E2%9A%AA+%7C+Arena+18+Clash+Royale" />
 </div>
 
 <br/>
 
-🚀 Working on **MCA & Full-Stack Development**<br>
-🤝 Collaborating on **Python / Java Open Source**<br>
-📖 Learning **React & UI/UX Design**<br>
-💬 Ask me about **SQL & Java**<br>
-⚽ Fun fact — **Hala Madrid ⚪ | Arena 18 Clash Royale**<br>
+<div align="center">
+⚔️  Working on    →   MCA & Full-Stack Development <br>
+🛡️  Collab on     →   Python / Java Open Source<br>
+📜  Learning      →   React & UI/UX Design<br>
+🔥  Ask me about  →   SQL & Java<br>
+⚽  Fun fact      →   Hala Madrid ⚪ | Arena 18 Clash Royale
+</div>
 
 ---
 
@@ -44,14 +46,14 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=safeerkp-cmd&theme=dark&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=safeerkp-cmd&theme=dark&hide_border=true&ring=c9a84c&fire=6b0000&currStreakLabel=c9a84c" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" width="38%" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=safeerkp-cmd&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=safeerkp-cmd&theme=onedark&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -63,7 +65,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=safeerkp-cmd&color=6AD3F7&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=safeerkp-cmd&color=6b0000&style=flat-square&label=Visitors" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:6b0000,100:0d0d0d&height=120&section=footer" width="100%"/>
 </div>
