@@ -21,18 +21,17 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=safeerkp-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=safeerkp-cmd&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd&theme=dark&hide_border=true&layout=compact" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd&theme=dark&hide_border=true&layout=compact&cache_seconds=1800" width="38%" />
 </p>
 
 ### 🏆 Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=safeerkp-cmd&theme=radical&no-frame=true&row=1&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=safeerkp-cmd&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 ---
