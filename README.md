@@ -8,11 +8,11 @@
 
 <br/>
 
-🚀 Working on **MCA & Full-Stack Development**
-🤝 Collaborating on **Python / Java Open Source**
-📖 Learning **React & UI/UX Design**
-💬 Ask me about **SQL & Java**
-⚽ Fun fact — **Hala Madrid ⚪ | Arena 18 Clash Royale**
+🚀 Working on **MCA & Full-Stack Development**<br>
+🤝 Collaborating on **Python / Java Open Source**<br>
+📖 Learning **React & UI/UX Design**<br>
+💬 Ask me about **SQL & Java**<br>
+⚽ Fun fact — **Hala Madrid ⚪ | Arena 18 Clash Royale**<br>
 
 ---
 
