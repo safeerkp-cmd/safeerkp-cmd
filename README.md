@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6b0000,100:1a0000&height=200&section=header&text=SAFEER%20KP&fontSize=55&fontColor=c9a84c&animation=fadeIn&fontAlignY=38&desc=「%20The%20struggler%20who%20codes%20in%20the%20dark%20」&descAlignY=62&descAlign=50&descSize=14&descColor=888888" width="100%"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:6b0000,100:1a0000&height=200&section=header&text=%E3%80%8C%20In%20this%20world%2C%20is%20the%20destiny%20of%20mankind%20controlled%3F%20%E3%80%8D&fontSize=16&fontColor=c9a84c&animation=fadeIn&fontAlignY=50&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
