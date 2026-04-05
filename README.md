@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=safeerkp-cmd&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=safeerkp-cmd&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd&theme=dark&hide_border=true&layout=compact" width="38%" />
 </p>
 
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsafeerkp-cmd&count_bg=%2379C83D&title_bg=%23555555&title=Profile+Views&edge_flat=false" />
+  <img src="https://komarev.com/ghpvc/?username=safeerkp-cmd&color=green&style=flat-square&label=Profile+Views" />
 </p>
