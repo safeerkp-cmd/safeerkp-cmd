@@ -13,7 +13,7 @@
 🛡️  Collab on     →   Python / Java Open Source<br>
 📜  Learning      →   React & UI/UX Design<br>
 🔥  Ask me about  →   SQL & Java<br>
-⚽  Fun fact      →   Hala Madrid ⚪ | Arena 18 Clash Royale
+
 </div>
 
 ---
