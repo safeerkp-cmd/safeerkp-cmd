@@ -1,43 +1,82 @@
-# Safeer KP
+# 🚀 Safeer KP
 
-Full-Stack Developer | MCA Student | SQL & Java Enthusiast
+MCA Student | Aspiring MLOps Engineer | Python & Cloud Learner
 
 ---
 
-## About Me
+## 🧠 About Me
 
-- 🛠️ **Working on:** MCA & Full-Stack Development
-- 🤝 **Collaborating on:** Python / Java Open Source
-- 📚 **Learning:** React & UI/UX Design
-- 💬 **Ask me about:** SQL & Java
+* 🛠️ **Currently Working On:** MLOps Roadmap & Python Projects
+* 📚 **Learning:** Docker, APIs, and Cloud (AWS)
+* 🔍 **Focus Area:** Machine Learning Operations (MLOps)
+* 💬 **Ask Me About:** Python, Git, Linux Basics
+
+---
+
+## 🎯 Career Goal
+
+To become an **MLOps Engineer** by building skills in:
+
+* Machine Learning workflows
+* Model deployment
+* Cloud infrastructure
+* Automation & CI/CD
+
+---
+
+## 🧰 Tech Stack (MLOps Path)
+
+| Category        | Tools                    |
+| --------------- | ------------------------ |
+| Languages       | Python                   |
+| Version Control | Git, GitHub              |
+| Data            | Pandas                   |
+| Backend         | Flask / FastAPI          |
+| Cloud           | AWS (EC2, S3 - Learning) |
+| OS              | Linux                    |
+| Upcoming        | Docker, Kubernetes       |
+
+---
+
+## 📂 Featured Project
+
+### 🔹 MLOps Python Basics
+
+* File handling & data processing
+* Basic data pipeline (read → process → write)
+* Git & project structuring
 
 ---
 
 ## 🌐 Connect With Me
 
-- [Behance](https://behance.net/safeerkp-cmd)
-- [Discord](https://discord.gg/yeager)
-- [Instagram](https://instagram.com/@safeer----k)
-- [LinkedIn](https://linkedin.com/in/safeer-kp-)
-- [Email](mailto:safeeropuzmini@gmail.com)
+* [LinkedIn](https://linkedin.com/in/safeer-kp-)
+* [Email](mailto:safeeropuzmini@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 📊 GitHub Stats
 
-| Frontend | Backend | Database | Cloud |
-|----------|---------|----------|-------|
-| HTML5 | Java | MongoDB | AWS |
-| JavaScript | Python | MySQL | |
-| React | | | |
+![GitHub Streak](https://streak-stats.demolab.com/?user=safeerkp-cmd\&theme=dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd\&theme=dark\&hide_border=true\&layout=compact)
 
 ---
 
-## 📊 GitHub Statistics
+## ⚡ Current Focus
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=safeerkp-cmd&theme=dark&hide_border=true)
+* Strengthening Python for MLOps
+* Learning API development
+* Preparing for Docker & deployment
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safeerkp-cmd&theme=dark&hide_border=true&layout=compact)
+---
+
+## 🧩 Note
+
+This profile represents my transition into MLOps. Projects will evolve as I build more real-world systems.
+
+---
+)
 
 ---
 
